@@ -1,0 +1,205 @@
+{
+  "itemId" : "_xdJ0QNmzEeytpNGrjPJbzw",
+  "contextList" : [ {
+    "contextName" : "prod",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_ydRVt0AKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_ydRVuEAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_ydRVuUAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_ydRVukAKEe2FQ-_2T5rOpg",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_ydRVu0AKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_ydRVvEAKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_ydRVvUAKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_ydRVvkAKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_ydRVv0AKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_ydRVwEAKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_ydRVwUAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_Path"
+    }, {
+      "id" : "_ydRVwkAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_Profile"
+    }, {
+      "id" : "_ydRVw0AKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_NameSpace"
+    }, {
+      "id" : "_ydRVxEAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_Bucket"
+    }, {
+      "id" : "_ydRVxUAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_ContentType"
+    }, {
+      "id" : "_ydRVxkAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_Region"
+    }, {
+      "id" : "_ydRVx0AKEe2FQ-_2T5rOpg",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_ydRVyEAKEe2FQ-_2T5rOpg",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_ydRVyUAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_ATP_Url"
+    }, {
+      "id" : "_ydRVykAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_ATP_Password"
+    }, {
+      "id" : "_ydRVy0AKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_ATP_Username"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_ax7DSqHbEeu7sLkBk5CM4g",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_ax7DS6HbEeu7sLkBk5CM4g",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_ax7DTKHbEeu7sLkBk5CM4g",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_ax7DTaHbEeu7sLkBk5CM4g",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_ax7DTqHbEeu7sLkBk5CM4g",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_ax7DT6HbEeu7sLkBk5CM4g",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_ax7DUKHbEeu7sLkBk5CM4g",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_ax7DUaHbEeu7sLkBk5CM4g",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_ax7DUqHbEeu7sLkBk5CM4g",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_ax7DU6HbEeu7sLkBk5CM4g",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_ax7DVKHbEeu7sLkBk5CM4g",
+      "name" : "ORACLE_CLOUD_OCI_Path"
+    }, {
+      "id" : "_ax7DVaHbEeu7sLkBk5CM4g",
+      "name" : "ORACLE_CLOUD_OCI_Profile"
+    }, {
+      "id" : "_ax7DVqHbEeu7sLkBk5CM4g",
+      "name" : "ORACLE_CLOUD_OCI_NameSpace"
+    }, {
+      "id" : "_ax7DV6HbEeu7sLkBk5CM4g",
+      "name" : "ORACLE_CLOUD_OCI_Bucket"
+    }, {
+      "id" : "_ax7DWKHbEeu7sLkBk5CM4g",
+      "name" : "ORACLE_CLOUD_OCI_ContentType"
+    }, {
+      "id" : "_ax7DWaHbEeu7sLkBk5CM4g",
+      "name" : "ORACLE_CLOUD_OCI_Region"
+    }, {
+      "id" : "_ax7DWqHbEeu7sLkBk5CM4g",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_ax7DW6HbEeu7sLkBk5CM4g",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_gJC0IdP0EeuJGcsYNJQFLQ",
+      "name" : "ORACLE_CLOUD_ATP_Url"
+    }, {
+      "id" : "_C6TXItP2EeuJGcsYNJQFLQ",
+      "name" : "ORACLE_CLOUD_ATP_Password"
+    }, {
+      "id" : "_C6TXI9P2EeuJGcsYNJQFLQ",
+      "name" : "ORACLE_CLOUD_ATP_Username"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_ydRVoUAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_ydRVokAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_ydRVo0AKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_ydRVpEAKEe2FQ-_2T5rOpg",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_ydRVpUAKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_ydRVpkAKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_ydRVp0AKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_ydRVqEAKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_ydRVqUAKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_ydRVqkAKEe2FQ-_2T5rOpg",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_ydRVq0AKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_Path"
+    }, {
+      "id" : "_ydRVrEAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_Profile"
+    }, {
+      "id" : "_ydRVrUAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_NameSpace"
+    }, {
+      "id" : "_ydRVrkAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_Bucket"
+    }, {
+      "id" : "_ydRVr0AKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_ContentType"
+    }, {
+      "id" : "_ydRVsEAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_OCI_Region"
+    }, {
+      "id" : "_ydRVsUAKEe2FQ-_2T5rOpg",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_ydRVskAKEe2FQ-_2T5rOpg",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_ydRVs0AKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_ATP_Url"
+    }, {
+      "id" : "_ydRVtEAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_ATP_Password"
+    }, {
+      "id" : "_ydRVtUAKEe2FQ-_2T5rOpg",
+      "name" : "ORACLE_CLOUD_ATP_Username"
+    } ]
+  } ]
+}
