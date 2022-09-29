@@ -1,0 +1,119 @@
+{
+  "itemId" : "_x8T3wLUBEemNDs0E51zBKw",
+  "contextList" : [ {
+    "contextName" : "dev",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_43e2yaEZEeuY9MUctXVBbQ",
+      "name" : "RETENTION_DAY_FILES_BCK"
+    }, {
+      "id" : "_43e2yqEZEeuY9MUctXVBbQ",
+      "name" : "ORACLE_CLOUD_DWH_Url"
+    }, {
+      "id" : "_43e2y6EZEeuY9MUctXVBbQ",
+      "name" : "ORACLE_CLOUD_DWH_Password"
+    }, {
+      "id" : "_43e2zKEZEeuY9MUctXVBbQ",
+      "name" : "ORACLE_CLOUD_DWH_Username"
+    }, {
+      "id" : "_43e2zaEZEeuY9MUctXVBbQ",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_43e2zqEZEeuY9MUctXVBbQ",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_43e2z6EZEeuY9MUctXVBbQ",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_43e20KEZEeuY9MUctXVBbQ",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_43e20aEZEeuY9MUctXVBbQ",
+      "name" : "SIPADX_DB_Login"
+    }, {
+      "id" : "_43e20qEZEeuY9MUctXVBbQ",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_43e206EZEeuY9MUctXVBbQ",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_43e21KEZEeuY9MUctXVBbQ",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_43e21aEZEeuY9MUctXVBbQ",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_43e21qEZEeuY9MUctXVBbQ",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_43e216EZEeuY9MUctXVBbQ",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_43e22KEZEeuY9MUctXVBbQ",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_43e22aEZEeuY9MUctXVBbQ",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_43e22qEZEeuY9MUctXVBbQ",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_43e226EZEeuY9MUctXVBbQ",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_n-hRQ6EgEeusCJWPky9rXQ",
+      "name" : "ORACLE_CLOUD_ATP_Url"
+    }, {
+      "id" : "_n-hRRKEgEeusCJWPky9rXQ",
+      "name" : "ORACLE_CLOUD_ATP_Password"
+    }, {
+      "id" : "_n-hRRaEgEeusCJWPky9rXQ",
+      "name" : "ORACLE_CLOUD_ATP_Username"
+    }, {
+      "id" : "_cZkD_9HXEeyzgYzl1QIECw",
+      "name" : "JWT_HEADER"
+    }, {
+      "id" : "_cZkEAdHXEeyzgYzl1QIECw",
+      "name" : "JWT_ISSUER"
+    }, {
+      "id" : "_cZkEAtHXEeyzgYzl1QIECw",
+      "name" : "JWT_SUBJECT"
+    }, {
+      "id" : "_cZkEA9HXEeyzgYzl1QIECw",
+      "name" : "JWT_AUD"
+    }, {
+      "id" : "_cZkEBNHXEeyzgYzl1QIECw",
+      "name" : "JWT_PATH_JKS"
+    }, {
+      "id" : "_cZkEBdHXEeyzgYzl1QIECw",
+      "name" : "JWT_JKS_PKEY"
+    }, {
+      "id" : "_cZkEBtHXEeyzgYzl1QIECw",
+      "name" : "JWT_CERT_ALIAS"
+    }, {
+      "id" : "_cZkEB9HXEeyzgYzl1QIECw",
+      "name" : "URL_TOKEN_AUTH"
+    }, {
+      "id" : "_cZkECNHXEeyzgYzl1QIECw",
+      "name" : "CONTENT_TYPE_AUTH"
+    }, {
+      "id" : "_cZkECdHXEeyzgYzl1QIECw",
+      "name" : "BODY_REQUEST_TOKEN_AUTH"
+    }, {
+      "id" : "_cZkECtHXEeyzgYzl1QIECw",
+      "name" : "ACCESS_TOKEN_KJSON"
+    }, {
+      "id" : "_cZkEC9HXEeyzgYzl1QIECw",
+      "name" : "QUERY_RICONTATTI_PATH"
+    }, {
+      "id" : "_8hER4yImEe2_I7E_zNrwzA",
+      "name" : "QUERY_SOGGETTI_PATH"
+    }, {
+      "id" : "_8hER5CImEe2_I7E_zNrwzA",
+      "name" : "QUERY_LEAD_RIC_PATH"
+    }, {
+      "id" : "_8hER5SImEe2_I7E_zNrwzA",
+      "name" : "QUERY_LEAD_OPP_PATH"
+    } ]
+  } ]
+}
