@@ -1,0 +1,151 @@
+{
+  "itemId" : "_1ZN88BJMEeyxls00YgNKdw",
+  "contextList" : [ {
+    "contextName" : "prod",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_QYdNQUCeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_QYdNQkCeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_QYdNQ0CeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_QYdNRECeEe2bZMz1b6DqQA",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_QYdNRUCeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_QYdNRkCeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_QYdNR0CeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_QYdNSECeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_QYdNSUCeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_QYdNSkCeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_QYdNS0CeEe2bZMz1b6DqQA",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_QYdNTECeEe2bZMz1b6DqQA",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_QYdNTUCeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_ATP_Url"
+    }, {
+      "id" : "_QYdNTkCeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_ATP_Password"
+    }, {
+      "id" : "_QYdNT0CeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_ATP_Username"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_yPcqs9frEeubQKwpT6Xz5A",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_yPcqtNfrEeubQKwpT6Xz5A",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_yPcqtdfrEeubQKwpT6Xz5A",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_yPcqttfrEeubQKwpT6Xz5A",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_yPcqt9frEeubQKwpT6Xz5A",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_yPcquNfrEeubQKwpT6Xz5A",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_yPcqudfrEeubQKwpT6Xz5A",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_yPcqutfrEeubQKwpT6Xz5A",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_yPcqu9frEeubQKwpT6Xz5A",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_yPcqvNfrEeubQKwpT6Xz5A",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_yPcqvdfrEeubQKwpT6Xz5A",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_yPcqvtfrEeubQKwpT6Xz5A",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_yPcqv9frEeubQKwpT6Xz5A",
+      "name" : "ORACLE_CLOUD_ATP_Url"
+    }, {
+      "id" : "_yPcqwNfrEeubQKwpT6Xz5A",
+      "name" : "ORACLE_CLOUD_ATP_Password"
+    }, {
+      "id" : "_yPcqwdfrEeubQKwpT6Xz5A",
+      "name" : "ORACLE_CLOUD_ATP_Username"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_QYdNMUCeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_QYdNMkCeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_QYdNM0CeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_QYdNNECeEe2bZMz1b6DqQA",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_QYdNNUCeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_QYdNNkCeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_QYdNN0CeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_QYdNOECeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_QYdNOUCeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_QYdNOkCeEe2bZMz1b6DqQA",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_QYdNO0CeEe2bZMz1b6DqQA",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_QYdNPECeEe2bZMz1b6DqQA",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_QYdNPUCeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_ATP_Url"
+    }, {
+      "id" : "_QYdNPkCeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_ATP_Password"
+    }, {
+      "id" : "_QYdNP0CeEe2bZMz1b6DqQA",
+      "name" : "ORACLE_CLOUD_ATP_Username"
+    } ]
+  } ]
+}
